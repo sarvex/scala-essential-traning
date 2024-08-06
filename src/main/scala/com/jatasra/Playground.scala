@@ -1,4 +1,4 @@
-package com.jatasra.playground
+package com.jatasra
 
 object Playground {
   def main(args: Array[String]): Unit = {
